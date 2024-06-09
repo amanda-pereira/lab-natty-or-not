@@ -10,7 +10,7 @@ Utilizei no Amazon Bedrock o criador de imagens da Amazon, Titan Image Generator
 ## 🧐 Processo de Criação
 Me imaginei em um futuro onde assim como agora onde aprendo sobre tecnologia, a tecnologia nos ensine de forma primária. Na imagem vemos robôs ensinando alguns humanos em uma sala de aula.
 
-[IMAGEM]([url](https://github.com/amanda-pereira/lab-natty-or-not/blob/main/sala%20de%20aula%20com%20alunos%20humanos%20e%20professores%20robos.png))
+[IMAGEM]([https://github.com/amanda-pereira/lab-natty-or-not/blob/main/sala%20de%20aula%20com%20alunos%20humanos%20e%20professores%20robos.png]
 
 ## 🚀 Resultados
 Após alguns comandos, em alguns segundos foram geradas algumas imagens. Nem todas "naturais", o que também é interessante, pois a ferramenta está em constante aprendizagem e aprimoramento. Por fim, essa a seguir foi o melhor resultado que eu obtive entre as imagens. Sobre a pesquisa de texto, a resposta veio de forma clara e assertiva.
